@@ -73,14 +73,15 @@ def main():
             elif event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_1:
                     num_enemies = 15
-                    difficulty_chosen = True
+                    difficulty_chosen = True    
                 elif event.key == pygame.K_2:
-                    num_enemies = 20
+                    num_enemies = 30
                     difficulty_chosen = True
                 elif event.key == pygame.K_3:
-                    num_enemies = 25
+                    num_enemies = 60
                     difficulty_chosen = True
 
+        
     enemies = [Enemy(x * 40, y * 40) for x in range(1, 19) for y in range(num_enemies // 15)]
 
     # Bullets
