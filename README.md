@@ -3,4 +3,5 @@ MVP of Space Invader develop in Python with 2d movement of a spaceship and enemi
 
 when the game end if you win or loose it generates a ranking. And with Enter key you can restart the game or quit with scape.
 
-<img width="667" alt="image" src="https://github.com/limitky/space_invader_python/assets/10922449/b660076a-308d-4c4a-9c18-fcff0c043b85">
+![image](https://github.com/limitky/space_invader_python/assets/10922449/41390f5c-5127-4784-9162-3419ea1409a3)
+
